@@ -48,7 +48,7 @@ const Skill = () => {
         <section className="section">
             <div className="container">
                 <h2 className="headline-2 reveal-up">
-                    Essential Manage Your Financial Success
+                    We are Authorized with:
                 </h2>
                 <p className="text-zinc-500 mt-3 mb-8 max-w-[50ch] font-bold">
                     Discover the tools and technologies I rely on to deliver exceptional financial solutions, strategies, and services that drive success and security for my clients.

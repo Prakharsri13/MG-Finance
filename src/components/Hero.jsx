@@ -24,7 +24,7 @@ const Hero = () => {
                         </div>
                     </div>
                     <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10 text-gray-800">
-                        MG Financial Services: Guiding Your Financial Future with Expertise and Trust
+                        MG Financial Services एक अटूट रिश्ता विश्वास का
                     </h2>
                     <div className="flex items-center gap-3">
                         <ButtonPrimary
