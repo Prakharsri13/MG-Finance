@@ -33,8 +33,8 @@ const Hero = () => {
                             icon="download"
                         />
                         <ButtonOutline
-                            href="#about"
-                            label="Scroll down"
+                            href="#contact"
+                            label="Contact Us Now"
                             icon="arrow_downward"
                         />
                     </div>
